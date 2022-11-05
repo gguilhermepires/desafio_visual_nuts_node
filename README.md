@@ -15,5 +15,5 @@ want to print the first 500 numbers, ...).
 Doing automatic tests
 
 # Run project
-
+npm install
 npm test
