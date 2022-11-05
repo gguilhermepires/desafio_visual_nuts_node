@@ -1,6 +1,6 @@
 # desafio_visual_nuts_node
 
-Exercise 1:
+# Exercise 1:
 Write or describe an algorithm that prints the whole integer numbers to the console, start
 from the number 1, and print all numbers going up to the number 100.
 However, when the number is divisible by 3, do not print the number, but print the word
@@ -13,3 +13,7 @@ keeps working when developers start making small feature adjustments. (Maybe we 
 want to print the first 500 numbers, ...).
 
 Doing automatic tests
+
+# Run project
+
+npm test
